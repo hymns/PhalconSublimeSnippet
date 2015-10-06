@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{{ select('${1:FieldID}', ${2:VoltArrayVariable}, 'using': ['${3:SelectValue}', '${4:SelectName}']) }}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>vsel</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

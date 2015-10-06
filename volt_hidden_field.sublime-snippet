@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{{ hidden_field('${1:FieldName}', 'value': '${2:FieldValue}') }}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>vhide</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
